@@ -25,7 +25,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 165
+  controlID: 20829
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -144,7 +144,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 200}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 166
+  controlID: 20830
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -596,8 +596,8 @@ MonoBehaviour:
     y: 510
     width: 1149
     height: 477
-  m_MinSize: {x: 201, y: 221}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 2}
   m_Panes:
   - {fileID: 2}
@@ -627,7 +627,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 200}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 137
+  controlID: 20802
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -647,8 +647,8 @@ MonoBehaviour:
     y: 0
     width: 382
     height: 466
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 202, y: 221}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 9}
   m_Panes:
   - {fileID: 9}
@@ -687,9 +687,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 28ab0000
-      m_LastClickedID: 43816
-      m_ExpandedIDs: 2e56ffffee5effff8667ffff2870ffff5e80ffff1e89ffff3493ffff829cffff08a6ffff58afffff34b8ffff3ec1ffff04caffff98ddffff44e6ffff1ef1ffff38fbffffbe8000008a86000062880000d28b0000528c00005e8e0000a09100001e92000064950000e4970000b29d0000daae0000
+      m_SelectedIDs: ec250100
+      m_LastClickedID: 75244
+      m_ExpandedIDs: d0cffeffcadafeff1ae8feff54fbfeff8e1effffe627ffff143afffff845ffff2e56ffffee5effff8667ffff2870ffff5e80ffff1e89ffff3493ffff829cffff08a6ffff58afffff34b8ffff3ec1ffff04caffff98ddffff44e6ffff1ef1ffff38fbffffbe8000008a86000062880000d28b0000528c00005e8e0000a09100001e92000064950000e4970000b29d0000daae00001ad400009ad60000c4d600000ed8000094d80000c4dc00000ae000008ae2000084e40000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -780,14 +780,14 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/Enemies/Tough
     m_Globs: []
     m_OriginalText: 
     m_FilterByTypeIntersection: 0
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/Enemies/Tough
   m_LastFoldersGridSize: -1
   m_LastProjectPath: D:\GitHub\GitProject\GI282_Final_TowerDefenseProj\Tower Defense
     Unity Project
@@ -795,9 +795,9 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 745f0000
-    m_LastClickedID: 24436
-    m_ExpandedIDs: 00000000745f000000ca9a3bffffff7f
+    m_SelectedIDs: 28130100
+    m_LastClickedID: 70440
+    m_ExpandedIDs: 00000000745f00007c5f000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -825,7 +825,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000745f0000
+    m_ExpandedIDs: 00000000745f00007c5f000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -850,9 +850,9 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 28ab0000
-    m_LastClickedInstanceID: 43816
-    m_HadKeyboardFocusLastEvent: 1
+    m_SelectedInstanceIDs: ec250100
+    m_LastClickedInstanceID: 75244
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: 00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -905,7 +905,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 200}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 16
+  controlID: 20852
 --- !u!114 &13
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -969,7 +969,7 @@ MonoBehaviour:
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
   m_LastInspectedObjectInstanceID: -1
-  m_LastVerticalScrollValue: 117
+  m_LastVerticalScrollValue: 486
   m_GlobalObjectId: 
   m_InspectorMode: 0
   m_LockTracker:

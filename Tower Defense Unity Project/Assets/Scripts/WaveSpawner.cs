@@ -56,7 +56,8 @@ public class WaveSpawner : MonoBehaviour {
 
 		for (int i = 0; i < wave.count; i++)
 		{
-			SpawnEnemy(wave.enemy);
+			GameObject enemy = wave.enemies[Random.Range(0, wave.enemies.Length)];
+			SpawnEnemy(enemy);
 			yield return new WaitForSeconds(1f / wave.rate);
 		}
 
